@@ -1,0 +1,2 @@
+# sanacoar
+Sanacoar Remote Settings 
